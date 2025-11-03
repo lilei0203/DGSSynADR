@@ -2,9 +2,9 @@
 
 In the "Comparison between different types of models" experiment of the study "A Review of Deep Learning Approaches for Drug Synergy Prediction in Cancer", DGSSynADR is retrained using the DrugComb dataset, and the hyperparameters are readjusted to ensure a fair comparison under consistent experimental conditions:
 
-*batcisize=1024   
-*learning rate= 0.00001    
-*epoch=270
+* batcisize=1024   
+* learning rate= 0.00001    
+* epoch=270
 
 
 ## Install Application:
