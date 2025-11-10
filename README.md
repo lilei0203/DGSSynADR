@@ -31,6 +31,12 @@ conda activate DGSSynADR
 
 Conda install -r requirements.txt
 
+The data preprocessing files related to this project are too large to include here and can be downloaded separately from Baidu Netdisk.
+Link: https://pan.baidu.com/s/1eRP_t__YBCMo_jntH6TRXA?pwd=3b2z 
+https://pan.baidu.com/s/1QG29gksVoaZAIuGjD0cCaw?pwd=c77m 
+https://pan.baidu.com/s/1nBCyN2IALkY1gKIJ8lG9nw?pwd=v4le 
+https://pan.baidu.com/s/1issTmnVUr4m5QWVMU2MhDA?pwd=h26s
+
 
 ## Running
 
